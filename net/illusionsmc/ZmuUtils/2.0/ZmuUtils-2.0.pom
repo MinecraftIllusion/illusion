@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.illusionsmc</groupId>
+  <artifactId>ZmuUtils</artifactId>
+  <version>2.0</version>
+  <name>ZMU Utils</name>
+  <description>Library for managing java obfuscation mappings in various formats.</description>
+  <url>https://github.com/IllusionsMC/ZmuUtils</url>
+  <licenses>
+    <license>
+      <name>LGPLv2.1</name>
+      <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>Zeqky</id>
+      <name>Zeqky</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/IllusionsMC/ZmuUtils.git</connection>
+    <developerConnection>scm:git:git@github.com:IllusionsMC/ZmuUtils.git</developerConnection>
+    <url>https://github.com/IllusionsMC/ZmuUtils</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/IllusionsMC/ZmuUtils/issues</url>
+  </issueManagement>
+</project>
