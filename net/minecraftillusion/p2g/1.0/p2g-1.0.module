@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.minecraftillusion",
+    "module": "p2g",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "p2g-1.0.jar",
+          "url": "p2g-1.0.jar",
+          "size": 5828,
+          "sha512": "a2024bd6e8e6dad9d2a1d5df2b02cc9b4fd2742aa8a067de4b38973248b1d62e98bb2c4aff8437e5aa6dbac611748d62b1c87e9ad058c28aca061f524f564bbe",
+          "sha256": "cd8b7a624c043efc4f8bc0f9f3f85f4b71f258903662c6a2e37028643f37dcba",
+          "sha1": "da37ace730b3e02497f5b6b9e2f0ddbfb37359c7",
+          "md5": "4138e078c79dfe34bbb9b1d3e61b7ef6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "p2g-1.0.jar",
+          "url": "p2g-1.0.jar",
+          "size": 5828,
+          "sha512": "a2024bd6e8e6dad9d2a1d5df2b02cc9b4fd2742aa8a067de4b38973248b1d62e98bb2c4aff8437e5aa6dbac611748d62b1c87e9ad058c28aca061f524f564bbe",
+          "sha256": "cd8b7a624c043efc4f8bc0f9f3f85f4b71f258903662c6a2e37028643f37dcba",
+          "sha1": "da37ace730b3e02497f5b6b9e2f0ddbfb37359c7",
+          "md5": "4138e078c79dfe34bbb9b1d3e61b7ef6"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "p2g-1.0-sources.jar",
+          "url": "p2g-1.0-sources.jar",
+          "size": 3144,
+          "sha512": "c7c8a7a0e0a15b4ea71556e57cd26146a89d444615ad2aed129c74b7da4240377c0112cad520843990944331bf43a07d03199bc0f1fb30a7638ef2d1e30e806b",
+          "sha256": "8429bda1e12075bc73c5c892802b03f4b455771615c33c287f6f83ac97e16a45",
+          "sha1": "38512d0a9ffdd38c535110f69545afd1bf539350",
+          "md5": "333f60a02c40e7d512c5db2d6606c0cb"
+        }
+      ]
+    }
+  ]
+}
